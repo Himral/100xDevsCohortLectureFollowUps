@@ -1,0 +1,16 @@
+.thirdPartProfileInnerEl{
+    display: flex;
+    flex-direction: column;
+}
+.thirdPartProfile{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.profileInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
